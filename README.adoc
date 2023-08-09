@@ -1,2 +1,2 @@
-# demo-static-website
+= demo-static-website
 A demonstration static website
